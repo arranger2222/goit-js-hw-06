@@ -1,2 +1,2 @@
 # goit-js-hw-06
-home_work_js#6
+https://arranger2222.github.io/goit-js-hw-06/
